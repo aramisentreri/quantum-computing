@@ -28,4 +28,4 @@ To measure the qbit, simply use the ```measure()``` method:
 qbit_0.measure()
 ```
 The outcome of the measurement will be |0> with probability |x|^2, or 
-|1> with probability |y|^2, and the Qbit state will now be the new state.
+|1> with probability |y|^2, and the qbit state will now be the new state.
